@@ -1,3 +1,493 @@
+<!-- wp:heading {"level":1,"className":"product-title product_title entry-title"} -->
+<h1 class="wp-block-heading product-title product_title entry-title">Desktop All-in-One (คอมพิวเตอร์ออลอินวัน) Dell 24 AIO OEC2425C7001 Intel Core 7 150U/16GB/1TB SSD/23.8″/Windows 11 Home</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/">Dell  24 All-in-one (ออลอินวัน) OEC2425C7001CPUIntel Core 7-150URAM16GB, 2x8GB, DDR5, 5200 MT/sSTORAGE1TB M.2 PCIe NVMe SSDDISPLAY23.8-inch FHD (1920 x 1080)VGAIntel UHD GraphicsOSWindows 11 Home + Office Home and Student 2021WARRANTY3 Years Onsite</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"yikes-custom-woo-tab-title yikes-custom-woo-tab-title-คุณสมบัติสินค้า"} -->
+<h2 class="wp-block-heading yikes-custom-woo-tab-title yikes-custom-woo-tab-title-คุณสมบัติสินค้า">CPU</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/">ProcessorIntel(R) Core(TM) 7 processor 150U (12MB cache, 10 cores, 12 threads, up to 5.4 GHz)GraphicsIntel GraphicsDisplay Screen23.8-inch FHD (1920 x 1080) Anti-Glare Narrow Border AIT Infinity Non Touch DisplayMain Memory16GB, 2x8GB, DDR5, 5200 MT/sStorage1TB M.2 PCIe NVMe Solid State DriveOptical Disk DriveNoneWeb CameraFHD RGB cameraWirelessIntel(R) Wi-Fi 6E 2×2 AX211, 802.11ax, Bluetooth(R) wireless card driverPortsSide:</a><a href="http://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdof">geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(1) USB 3.2 Type-C®Gen 2 (10 Gbps) port</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rear:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/">(3) USB 3.2 Gen 1 (5 Gbps) ports with Wake-up support</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(S3/Modern Standby)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(1) USB 3.2 Gen 2 (10 Gbps) port with PowerShare</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(1) HDMI-in 1.4</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(1) HDMI-out 1.4b</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(1) RJ45 Ethernet port(1 Gbps)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/">(1) Global headset jack</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/">(1) Power-adapter port</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(1) SD Card ReaderPower Adapter90W AC adapter, 4.5 mm barrel for Intel®GraphicsOSWindows 11 Home + Microsoft Office Home 2024 + Microsoft 365 BasicWarranty3 Years onsite Dellstore Thailand</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ให้ทุกคำสั่งซื้อออนไลน์เป็นเรื่องง่ายและสะดวกที่สุดสำหรับคุณ บน&nbsp;<a href="https://computerstorethailand.com/home/our-story/" target="_blank" rel="noreferrer noopener">Dellstore Thailand</a>&nbsp;แอปพลิเคชันซื้อของ&nbsp;Dell&nbsp;ออนไลน์และเว็บซื้อของออนไลน์ยอดนิยมในประเทศไทย ที่ปลอดภัยและเชื่อถือได้ เราพร้อมมอบประสบการณ์ที่ดีที่สุดในการใช้งานบนแอปซื้อของ&nbsp;Dell&nbsp;ออนไลน์ ด้วยการคัดสรรโปรโมชั่น โค้ดส่วนลด และโค้ดส่งฟรี* แบบปัง ๆ เพื่อตอกย้ำการช้อปปิ้งออนไลน์ที่คุ้มค่า</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://computerstorethailand.com/home/our-story/" target="_blank" rel="noreferrer noopener">Dellstore Thailand</a>&nbsp;มุ่งมั่นที่จะมอบประสบการณ์ที่ดีให้กับคุณในการช้อปออนไลน์ให้สนุกและปลอดภัยมากยิ่งขึ้นบนแพลตฟอร์มของเรา ด้วยขั้นตอนการเก็บและปกป้องข้อมูลส่วนบุคคลของผู้ใช้งานให้ปลอดภัย พร้อมด้วยฝ่ายบริการลูกค้าของ&nbsp;Dellstore Thailand&nbsp;ที่พร้อมดำเนินการเมื่อมีการรายงานเข้ามา รวมไปถึงระบบ&nbsp;Dell&nbsp;การันตี ที่จะคุ้มครองทุกคำสั่งซื้อออนไลน์เพื่อป้องกันข้อผิดพลาดระหว่างการซื้อ และเพื่อให้คุณสามารถยื่นคำขอเงินคืนหรือคืนสินค้าหากพบข้อผิดพลาดได้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>คัดสรรสินค้าคุณภาพทุกประเภท ให้คุณซื้อสินค้าออนไลน์ได้ตามใจ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ช้อปง่าย ช้อปสนุก! ให้ทุกการช้อปออนไลน์เป็นเรื่องสนุก และทุกการสั่งของออนไลน์เป็นเรื่องง่าย เพราะที่&nbsp;Dellstore Thailand&nbsp;มีสินค้าทุกประเภทเกี่ยวกับคอมพิวเตอร์ Dell ให้คุณเลือกซื้อออนไลน์ได้ตามที่ต้องการ ไม่ว่าจะเป็น&nbsp;&nbsp;<a href="https://computerstorethailand.com/product-category/gaming-gear/" target="_blank" rel="noreferrer noopener">Dell Gaming Gear</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/bag/" target="_blank" rel="noreferrer noopener">Dell Bag</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-monitor/" target="_blank" rel="noreferrer noopener">Dell Monitor</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-all-in-one/" target="_blank" rel="noreferrer noopener">Dell All-in-one</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-notebook/" target="_blank" rel="noreferrer noopener">Dell Notebook</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/keyboard-mouse/" target="_blank" rel="noreferrer noopener">Dell Keyboard &amp; Mouse</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/battery-adapter/" target="_blank" rel="noreferrer noopener">Dell Battery / Adapter</a>&nbsp;|&nbsp;<a href="https://computerstorethailand.com/product-category/accessories/" target="_blank" rel="noreferrer noopener">Dell Accessories</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">หมวดหมู่สินค้าของ Dell Store Thailand</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/gaming-gear/" target="_blank" rel="noreferrer noopener">เดลล์ชุดเกมส์มิ่ง เกียร์ Dell Gaming Gear</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/bag/" target="_blank" rel="noreferrer noopener">เดลล์กระเป๋า Dell Bag</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-monitor/" target="_blank" rel="noreferrer noopener">เดลล์หน้าจอ Dell Monitor</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-desktop/" target="_blank" rel="noreferrer noopener">เดลล์คอมพิวเตอร์ Dell Desktop</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-all-in-one/" target="_blank" rel="noreferrer noopener">เดลล์คอมพิวเตอร์ ออล อินวัน Dell All-in-one</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-notebook/" target="_blank" rel="noreferrer noopener">เดลล์โน๊ตบุค Dell Notebook</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/keyboard-mouse/" target="_blank" rel="noreferrer noopener">เดลล์คีย์บอร์ด เมาส์ Dell Keyboard &amp; Mouse</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/battery-adapter/" target="_blank" rel="noreferrer noopener">เดลล์แบตเตอรี่ อะแดปเตอร์ Dell Battery / Adapter</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/accessories/" target="_blank" rel="noreferrer noopener">เดลล์อุปกรณ์เสริมต่างๆ Dell Accessories</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://computerstorethailand.com/product-category/extended-warranty/" target="_blank" rel="noreferrer noopener">เดลล์ต่อประกัน / Dell Extended warranty</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Dellstorethailand.com -&nbsp;จำหน่าย Notebook โน๊ตบุ๊คแบร์น Dell (เดลล์)&nbsp;หลากหลายซีรี่ส์ ทั้ง&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-notebook/inspiron/" target="_blank" rel="noreferrer noopener">Dell Inspiron</a>,&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-notebook/vostro/" target="_blank" rel="noreferrer noopener">Dell Vostro</a>,&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-notebook/alienware/" target="_blank" rel="noreferrer noopener">Dell Alienware</a>,&nbsp;<a href="https://computerstorethailand.com/product-category/%e0%b8%ab%e0%b8%a1%e0%b8%a7%e0%b8%94-notebook/xps/" target="_blank" rel="noreferrer noopener">Dell XPS</a>&nbsp;สามารถเลือกซื้อได้ตามลักษณะการใช้งาน ทั้งเรียน ทำงาน เล่นเกม และบันเทิง สามารถสั่งซื้อโน๊ตบุ๊ค Dell ราคาพิเศษ รับประกันศูนย์ได้ที่&nbsp;<a href="https://nextplayshop.com/" target="_blank" rel="noreferrer noopener">Nextplay (บริษัท เน็กซ์เพลย์ จำกัด)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="navbar-brand" href="https://browser.geekbench.com/"><img src="https://browser.geekbench.com/assets/browser-dark-4d9f1af82043f60fd55f5385de9dedf44baec6247dac9f8e738de9eee84bf084.svg" alt="Geekbench Browser"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Intel Core 7 150U Benchmarks</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Benchmark results for the Intel Core 7 150U can be found below. The data on this chart is gathered from user-submitted Geekbench 6 results from the Geekbench Browser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/">Geekbench 7</a>&nbsp;CPU scores are calibrated against a baseline score of 2,500 (which is the score of an AMD Ryzen 7 7700).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Higher scores are better, with double the score indicating double the performance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">CPU Benchmark Scores</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1873</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Single-Core Score</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6484</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Multi-Core Score</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Processor Information</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ProcessorIntel Core 7 150UFrequency1800 MHzMaximum Frequency5400 MHzCores10Performance Cores2Efficient Cores8Threads12Base Power15 WMaximum Power55 WCodenameRaptor LakePackageFCBGA1744</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Raptor Lake Benchmarks</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"nav nav-pills"} -->
+<ul class="wp-block-list nav nav-pills"><!-- wp:list-item -->
+<li><a class="nav-link active" href="https://browser.geekbench.com/processors/intel-core-7-150u#family-64-single">Single-Core</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="nav-link" href="https://browser.geekbench.com/processors/intel-core-7-150u#family-64-multi">Multi-Core</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>ProcessorScore<a href="https://browser.geekbench.com/processors/intel-core-i9-13900ks">Intel Core i9-13900KS</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.2 GHz (24 cores)2749<a href="https://browser.geekbench.com/processors/intel-core-i9-14900kf">Intel Core i9-14900KF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.2 GHz (24 cores)2727<a href="https://browser.geekbench.com/processors/intel-core-i9-14900ks">Intel Core i9-14900KS</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.2 GHz (24 cores)2726<a href="https://browser.geekbench.com/processors/intel-core-i9-14900k">Intel Core i9-14900K</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.2 GHz (24 cores)2662<a href="https://browser.geekbench.com/processors/intel-core-i9-13900kf">Intel Core i9-13900KF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.0 GHz (24 cores)2642<a href="https://browser.geekbench.com/processors/intel-core-i9-13900k">Intel Core i9-13900K</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.0 GHz (24 cores)2628<a href="https://browser.geekbench.com/processors/intel-core-i7-14700k">Intel Core i7-14700K</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 GHz (20 cores)2595<a href="https://browser.geekbench.com/processors/intel-core-i9-13900f">Intel Core i9-13900F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.0 GHz (24 cores)2584<a href="https://browser.geekbench.com/processors/intel-core-i9-14900f">Intel Core i9-14900F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.0 GHz (24 cores)2570<a href="https://browser.geekbench.com/processors/intel-core-i7-14700kf">Intel Core i7-14700KF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 GHz (20 cores)2567<a href="https://browser.geekbench.com/processors/intel-core-i9-14900">Intel Core i9-14900</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.0 GHz (24 cores)2537<a href="https://browser.geekbench.com/processors/intel-core-i5-14600k">Intel Core i5-14600K</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 GHz (14 cores)2528<a href="https://browser.geekbench.com/processors/intel-core-i9-13900">Intel Core i9-13900</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.0 GHz (24 cores)2526<a href="https://browser.geekbench.com/processors/intel-core-i7-13700k">Intel Core i7-13700K</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 GHz (16 cores)2521<a href="https://browser.geekbench.com/processors/intel-core-i5-13600kf">Intel Core i5-13600KF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 GHz (14 cores)2485<a href="https://browser.geekbench.com/processors/intel-core-i5-14600kf">Intel Core i5-14600KF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 GHz (14 cores)2463<a href="https://browser.geekbench.com/processors/intel-core-i7-13700kf">Intel Core i7-13700KF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 GHz (16 cores)2430<a href="https://browser.geekbench.com/processors/intel-core-i5-14600">Intel Core i5-14600</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.7 GHz (14 cores)2407<a href="https://browser.geekbench.com/processors/intel-core-i7-14700">Intel Core i7-14700</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.1 GHz (20 cores)2394<a href="https://browser.geekbench.com/processors/intel-core-i7-14700f">Intel Core i7-14700F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.1 GHz (20 cores)2359<a href="https://browser.geekbench.com/processors/intel-core-i5-13600">Intel Core i5-13600</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.7 GHz (14 cores)2346<a href="https://browser.geekbench.com/processors/intel-core-i9-14900hx">Intel Core i9-14900HX</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.2 GHz (24 cores)2338<a href="https://browser.geekbench.com/processors/intel-core-i7-13700f">Intel Core i7-13700F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.1 GHz (16 cores)2325<a href="https://browser.geekbench.com/processors/intel-core-i7-13700">Intel Core i7-13700</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.1 GHz (16 cores)2321<a href="https://browser.geekbench.com/processors/intel-core-i5-13600k">Intel Core i5-13600K</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 GHz (14 cores)2285<a href="https://browser.geekbench.com/processors/intel-core-i7-13700t">Intel Core i7-13700T</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.4 GHz (16 cores)2285<a href="https://browser.geekbench.com/processors/intel-core-i5-14500t">Intel Core i5-14500T</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.7 GHz (14 cores)2239<a href="https://browser.geekbench.com/processors/intel-core-i5-13600t">Intel Core i5-13600T</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.8 GHz (14 cores)2203<a href="https://browser.geekbench.com/processors/intel-core-i7-14700hx">Intel Core i7-14700HX</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.1 GHz (20 cores)2177<a href="https://browser.geekbench.com/processors/intel-core-i5-13500">Intel Core i5-13500</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.5 GHz (14 cores)2174<a href="https://browser.geekbench.com/processors/intel-core-i3-14100">Intel Core i3-14100</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 GHz (4 cores)2149<a href="https://browser.geekbench.com/processors/intel-core-i7-14650hx">Intel Core i7-14650HX</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.2 GHz (16 cores)2137<a href="https://browser.geekbench.com/processors/intel-core-i3-14100f">Intel Core i3-14100F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.5 GHz (4 cores)2131<a href="https://browser.geekbench.com/processors/intel-core-i5-14500hx">Intel Core i5-14500HX</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.6 GHz (14 cores)2129<a href="https://browser.geekbench.com/processors/intel-core-i5-13400">Intel Core i5-13400</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.5 GHz (10 cores)2107<a href="https://browser.geekbench.com/processors/intel-core-i5-14500">Intel Core i5-14500</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.6 GHz (14 cores)2065<a href="https://browser.geekbench.com/processors/intel-core-i3-13100f">Intel Core i3-13100F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 GHz (4 cores)2056<a href="https://browser.geekbench.com/processors/intel-core-i5-14400f">Intel Core i5-14400F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.5 GHz (10 cores)2043<a href="https://browser.geekbench.com/processors/intel-core-i5-14400">Intel Core i5-14400</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.5 GHz (10 cores)1999<a href="https://browser.geekbench.com/processors/intel-core-i5-13400f">Intel Core i5-13400F</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.5 GHz (10 cores)1988<a href="https://browser.geekbench.com/processors/intel-core-i5-13500t">Intel Core i5-13500T</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.6 GHz (14 cores)1973<a href="https://browser.geekbench.com/processors/intel-core-i5-13500te">Intel Core i5-13500TE</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.3 GHz (14 cores)1909<a href="https://browser.geekbench.com/processors/intel-core-i5-13400t">Intel Core i5-13400T</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.3 GHz (10 cores)1898<a href="https://browser.geekbench.com/processors/intel-core-i5-13500e">Intel Core i5-13500E</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2.4 GHz (14 cores)1898<a href="https://browser.geekbench.com/processors/intel-core-7-150u">Intel Core 7 150U</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.8 GHz (10 cores)1873<a href="https://browser.geekbench.com/processors/intel-core-i3-13100">Intel Core i3-13100</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3.4 GHz (4 cores)1770<a href="https://browser.geekbench.com/processors/intel-core-5-120u">Intel Core 5 120U</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1.4 GHz (10 cores)1706</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"geekbench-nav nav flex-column"} -->
+<ul class="wp-block-list geekbench-nav nav flex-column"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/?utm_source=browser&amp;utm_medium=banner&amp;utm_campaign=parkdale"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">Products</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.geekbench.com/">Geekbench 6</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.geekbench.com/ai/">Geekbench AI</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.voodoopad.com/">VoodooPad</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">Support</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="http://support.primatelabs.com/kb">Knowledge Base</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://store.primatelabs.com/store/lost_license/">Lost License</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/contact/">Contact</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/legal/privacy.html">Privacy Policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/legal/terms-of-use.html">Terms of Use</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">News &amp; Social</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="http://www.primatelabs.com/blog/">Blog</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://mastodon.social/@geekbench">Mastodon</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://discord.gg/KCQ7tWh">Discord</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.instagram.com/primatelabs/">Instagram</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.youtube.com/channel/UCAr1oShRa70bzaEYwvyLWig/feed">YouTube</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">Company</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/contact/">Corporate</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/careers/">Careers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/contact/">Media</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.primatelabs.com/"><img src="https://browser.geekbench.com/assets/geekbench-dark-db84d4a4c0d8883b5973004996df2e8601412332bbd0767bd35729010db4ebd3.svg" alt="Geekbench"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Copyright © 2004-2026 Primate Labs Inc.</p>
+<!-- /wp:paragraph -->
+
 {{Steward request archive header}}
  [https://www.bing.com/maps/search?mepi=58%7E%7EEmbedded%7ELargeMapLink&q=17.876%2C+101.6551&ppois=17.876028060913086_101.65508270263672_17.876%2C+101.6551&cp=17.823496%7E101.664181&lvl=11&style=r 17°52'33.7"N 101°39'18.3"E]
 {{Short description|github.com/e568a4f8-ceec-a808-1a2a-b0d78ac7a96f/www.pea.co.th-com.microsoft.rdc.androidx-loei/tree/com.microsoft.rdc.androidx
