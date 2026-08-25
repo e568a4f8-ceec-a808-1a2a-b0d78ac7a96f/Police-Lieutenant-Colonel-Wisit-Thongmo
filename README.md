@@ -1,9 +1,24 @@
+# https://www.histats.com/viewstats/?act=2&sid=5046740
+# https://www.histats.com/viewstats/?act=2&sid=5046741
+# https://www.histats.com/viewstats/?act=2&sid=5046742
+# https://www.histats.com/viewstats/?act=2&sid=5046743
+# https://www.histats.com/viewstats/?act=2&sid=5046744
+# https://www.histats.com/viewstats/?act=2&sid=5046745
+# https://www.histats.com/viewstats/?act=2&sid=5046746
+# https://www.histats.com/viewstats/?act=2&sid=5046748
+# https://www.histats.com/viewstats/?act=2&sid=5046749
+# https://www.histats.com/viewstats/?act=2&sid=5046750
+# https://www.histats.com/viewstats/?act=2&sid=5046752
+# https://www.histats.com/viewstats/?act=2&sid=5046755
+# https://www.histats.com/viewstats/?act=2&sid=5046758
+# https://www.histats.com/viewstats/?act=2&sid=5046760
+# https://www.histats.com/viewstats/?act=2&sid=5046762
 # Police-Lieutenant-Colonel-Wisit-Thongmo
 # https://ipv6-test.com/validate.php?url=referer
-https://dashboard.gitguardian.com/workspace/922982/analytics/overview?date_range=com.ios.launcher.iphone.ios27.md%2Boperator__eq
+
 เอกสาร
 # https://jigsaw.w3.org/css-validator/check/referer
-# https://www.w3.org/WAI/WCAG2AA-Conformance
+0# https://www.w3.org/WAI/WCAG2AA-Conformance
 # https://docs.google.com/document/d/119CkgephVRQsJmamEMDLQgBg2d8lf_u-lEVWp8ckNF8/edit?usp=drivesdk
 # https://docs.google.com/document/d/1saYJFsrTMvXp0n0ZWRYkuAv_WCA0g0memx3TCITXmH8/edit?usp=drivesdk
 # https://docs.google.com/document/d/1yYvrGRIYEoBbfq6HHUAv4gQjPRrvTMCOEnX5CBJgZJk/edit?usp=drivesdk
