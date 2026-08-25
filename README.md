@@ -1,6 +1,8 @@
 # Police-Lieutenant-Colonel-Wisit-Thongmo
 https://dashboard.gitguardian.com/workspace/922982/analytics/overview?date_range=com.ios.launcher.iphone.ios27.md%2Boperator__eq
 เอกสาร
+# https://jigsaw.w3.org/css-validator/check/referer
+# https://www.w3.org/WAI/WCAG2AA-Conformance
 # https://docs.google.com/document/d/119CkgephVRQsJmamEMDLQgBg2d8lf_u-lEVWp8ckNF8/edit?usp=drivesdk
 # https://docs.google.com/document/d/1saYJFsrTMvXp0n0ZWRYkuAv_WCA0g0memx3TCITXmH8/edit?usp=drivesdk
 # https://docs.google.com/document/d/1yYvrGRIYEoBbfq6HHUAv4gQjPRrvTMCOEnX5CBJgZJk/edit?usp=drivesdk
