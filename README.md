@@ -1,3 +1,8 @@
+# https://www.geekbench.com/#mol.go.th/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/dell-xps-13-dx13260-dx13260c5.jimdofree.com/
+# https://en.wikisource.org/wiki/en:Portal:Technology
+# https://en.wikiquote.org/wiki/en:Technology
+# https://en.wikipedia.org/wiki/Technology
+
 <!-- wp:paragraph -->
 <p>เรื่องที่คุณน่าจะสนใจ</p>
 <!-- /wp:paragraph -->
